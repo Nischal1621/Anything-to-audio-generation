@@ -30,6 +30,3 @@ This helps blind or low-vision users better understand surroundings by listening
 
 ---
 
-## 📁 Project Workflow
-
-### 1️⃣ Image-to-Audio
